@@ -1,0 +1,19 @@
+{
+  "software_packages": [
+      {
+          "package": "SoftwarePackage.tar.gz",
+          "ucm_subordinate": "UCM1"
+      },
+      {
+        "package": "Test_package.tar.gz",
+        "ucm_subordinate": "UCM1"
+    }
+  ],
+  "ucm_subordinates": [
+    {
+           "name": "UCM1",
+           "ip_address": "0.0.0.0",
+          "port": 0
+    }
+  ]
+}
