@@ -3,6 +3,10 @@
       {
           "package": "Package.tar.gz",
           "ucm_subordinate": "UCM1"
+      },
+    {
+          "package": "Test_Package.tar.gz",
+          "ucm_subordinate": "UCM1"
       }
   ],
   "ucm_subordinates": [
