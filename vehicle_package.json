@@ -5,7 +5,7 @@
           "ucm_subordinate": "UCM1"
       },
       {
-        "package": "Package.tar.gz",
+        "package": "TESTPackage.tar.gz",
         "ucm_subordinate": "UCM1"
     }
   ],
