@@ -1,7 +1,7 @@
 {
   "software_packages": [
       {
-          "package": "TestPackage.tar.gz",
+          "package": "SoftwarePackage.tar.gz",
           "ucm_subordinate": "UCM1"
       }
   ],
