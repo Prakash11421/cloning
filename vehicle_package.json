@@ -2,7 +2,7 @@
     "software_packages": [
         {
             "package": "ClusterPackage.tar.gz",
-            "version": "1.2.0",
+            "version": "1.4.0",
             "ucm_subordinate": "UCM1"
         }
     ],
