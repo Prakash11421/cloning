@@ -1,8 +1,8 @@
 {
     "software_packages": [
         {
-            "package": "ClusterPackage.tar.gz",
-            "version": "1.7.0",
+            "package": "HeadUnitPackage.tar.gz",
+            "version": "1.8.0",
             "ucm_subordinate": "UCM1"
         }
     ],
